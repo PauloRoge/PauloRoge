@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/paulo-rog%C3%A9rio-a63248243/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="paulorogerio.junior@outlook.com" target="_blank">
+  <a href="mailto:paulorogerio.junior@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
