@@ -35,4 +35,3 @@
 </div>
 
 ###
-![snake gif](https://github.com/PauloRoge/PauloRoge/blob/output/github-contribution-grid-snake.svg)
