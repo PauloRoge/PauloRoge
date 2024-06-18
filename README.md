@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pauloroge&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=pauloroge&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
