@@ -1,7 +1,7 @@
 <h1 align="left">Hey<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/>What's up?</h1>
 
-<p align="center">📡 Currently, I am meticulously studying, analyzing, and characterizing various computational techniques, including statistical methods and machine learning (supervised, unsupervised, and reinforcement learning), applied to classic problems in massive MIMO wireless communications.</p>
-
+<!-- <p align="center">📡 Currently, I am meticulously studying, analyzing, and characterizing various computational techniques, including statistical methods and machine learning (supervised, unsupervised, and reinforcement learning), applied to classic problems in massive MIMO wireless communications.</p>
+-->
 ###
 
 <p align="left"></p>
